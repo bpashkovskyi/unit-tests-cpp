@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOP", "OOP.vcxproj", "{8E8AFB79-B95E-47ED-9A1A-52A376D8161F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOP", "OOP\OOP.vcxproj", "{8E8AFB79-B95E-47ED-9A1A-52A376D8161F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOP.Tests", "..\OOP.Tests\OOP.Tests.vcxproj", "{01EC96A7-D01C-4C80-BD10-9DB5974F9A85}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOP.Tests", "OOP.Tests\OOP.Tests.vcxproj", "{01EC96A7-D01C-4C80-BD10-9DB5974F9A85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
